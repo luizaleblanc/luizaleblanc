@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @luizaleblanc
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning back-end 
-- 💞️ I’m looking to collaborate on a big company
-- 📫 How to reach me on e-mail luizaa.fq@gmail.com
+- 🌱 I’m graduated in Full-Stack Engineering
+- 💞️ I’m looking to collaborate on a big international company
+- 📫 How to reach me on e-mail: luizaa.fq@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: in my free time, I like to play electric guitar and sing
 
