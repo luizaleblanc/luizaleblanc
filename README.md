@@ -53,12 +53,9 @@
 </p>
 
 ### Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- aumentei o espaçamento aqui -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub (white)" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="50" height="50" alt="Vercel (white)" />
+<p align="left" class="tools-icons">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" />
 </p>
