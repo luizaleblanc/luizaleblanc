@@ -1,10 +1,7 @@
-<!-- Banner animado -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header)
-
-<!-- Texto animado -->
+<!-- Texto animado com fonte gamificada -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Luiza+LeBlanc" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Luiza+LeBlanc+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,6 +10,7 @@
 ## About Me
 - Passionate about programming, technology, and building impactful projects  
 - Graduated in Full-Stack Engineering  
+- Studying Systems Analysis and Development (expected graduation in 2026)  
 - Looking to collaborate with a big international company  
 - Fun fact: In my free time, I like to play electric guitar and sing  
 - Pronouns: she/her  
@@ -20,9 +18,11 @@
 ---
 
 ## Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaa.fq@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-AQUI)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaleblanc)  
+<p align="left">
+  <a href="mailto:luizaa.fq@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/SEU-LINK-AQUI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://github.com/luizaleblanc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -35,8 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
 </p>
-
----
-
-<!-- Footer animado -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=150&section=footer)
