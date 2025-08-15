@@ -59,3 +59,41 @@
   <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" />
 </p>
+/* Container dos ícones */
+.tools-icons {
+  display: flex;
+  flex-wrap: wrap;       /* permite quebrar linha em telas pequenas */
+  gap: 20px;             /* espaçamento uniforme entre os ícones */
+  align-items: center;
+}
+
+/* Estilo dos ícones */
+.tools-icons img {
+  width: 50px;           /* tamanho padrão */
+  height: 50px;
+  transition: transform 0.3s ease;
+}
+
+.tools-icons img:hover {
+  transform: scale(1.1); /* efeito hover leve */
+}
+
+/* Responsividade */
+@media (max-width: 480px) {
+  .tools-icons img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 360px) {
+  .tools-icons {
+    gap: 15px;
+  }
+
+  .tools-icons img {
+    width: 35px;
+    height: 35px;
+  }
+}
+
