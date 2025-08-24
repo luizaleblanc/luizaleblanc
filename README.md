@@ -10,7 +10,7 @@
 ## About Me
 - Passionate about programming, technology, and building impactful projects  
 - Graduated in Full-Stack Engineering  
-- Studying Computer Science (expected graduation in 2026)  
+- Studying Computer Science (expected graduation in 2028)  
 - Looking to collaborate with a big international company  
 - Fun fact: In my free time, I like to play electric guitar and sing  
 - Pronouns: she/her  
