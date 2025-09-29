@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Hi+there!+I'm+Luiza+LeBlanc" alt="Typing SVG" />
@@ -39,8 +40,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Use uma imagem PNG transparente ou adaptável para Django -->
-  <img src="https://example.com/django-light.png" width="50" height="50" alt="Django (light)" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" alt="Django (black for light mode)" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
   &nbsp;&nbsp;&nbsp;&nbsp;
