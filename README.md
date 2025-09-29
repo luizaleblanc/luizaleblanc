@@ -1,4 +1,3 @@
-<!-- Título animado com fonte branca gamificada -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Hi+there!+I'm+Luiza+LeBlanc" alt="Typing SVG" />
@@ -40,7 +39,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
+  <!-- Use uma imagem PNG transparente ou adaptável para Django -->
+  <img src="https://example.com/django-light.png" width="50" height="50" alt="Django (light)" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,7 +55,7 @@
 ### Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- aumentei o espaçamento aqui -->
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub (white)" />
