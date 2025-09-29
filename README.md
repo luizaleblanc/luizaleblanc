@@ -33,7 +33,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" width="50" height="50" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/sass.svg?color=FFFFFF" width="50" height="50" alt="SCSS" />
 </p>
 
 ### Backend
