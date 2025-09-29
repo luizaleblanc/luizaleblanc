@@ -40,6 +40,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" width="60" height="60" alt="Django" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
   &nbsp;&nbsp;&nbsp;&nbsp;
