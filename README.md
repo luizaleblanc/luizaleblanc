@@ -33,7 +33,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="50" height="50" alt="SCSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.png" width="50" height="50" alt="SCSS" />
+
 
 
 </p>
