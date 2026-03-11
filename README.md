@@ -4,16 +4,23 @@
   </a>
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Engineer-blue"/>
+  <img src="https://img.shields.io/badge/React-JavaScript_Ecosystem-61DAFB"/>
+  <img src="https://img.shields.io/badge/REST_APIs-System_Integration-orange"/>
+  <img src="https://img.shields.io/badge/Learning-Python%20Java%20AWS-purple"/>
+</p>
+
 ---
 
 ## About
 
-Frontend Engineer focused on **modern web interfaces, system integration and performance**.
+Frontend engineer focused on building **modern web interfaces, scalable systems and REST API integrations**.
 
 - Full-Stack Engineering graduate  
-- Computer Science student (2028)  
-- Experience with **React, Angular and REST APIs**  
-- Expanding skills in **Python, Java, AWS and Cloud**
+- Computer Science student (expected graduation 2028)  
+- Experience with **React, TypeScript and system integration**  
+- Expanding knowledge in **Python, Java, AWS and Cloud technologies**
 
 ---
 
@@ -22,52 +29,67 @@ Frontend Engineer focused on **modern web interfaces, system integration and per
 ### Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="50" height="50" alt="Tailwind"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="50" height="50"/>
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 </p>
 
 ### DevOps
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="50" height="50" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="50" height="50"/>
 </p>
 
 ---
 
-Frontend Engineer  
-React • JavaScript Ecosystem • TypeScript  
-REST APIs • UX/UI • System Integration  
-Learning: Python • Java • AWS • Docker
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
