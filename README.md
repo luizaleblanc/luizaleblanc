@@ -28,7 +28,7 @@ Frontend engineer focused on building **modern web interfaces, scalable systems 
 
 <div align="left">
 
-<div style="display: inline-block; margin-right: 40px;">
+<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
   <strong>Frontend</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
@@ -36,19 +36,19 @@ Frontend engineer focused on building **modern web interfaces, scalable systems 
   <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="40"/>
 </div>
 
-<div style="display: inline-block; margin-right: 40px;">
+<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
   <strong>Backend</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </div>
 
-<div style="display: inline-block; margin-right: 40px;">
+<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
   <strong>DevOps</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </div>
 
-<div style="display: inline-block;">
+<div style="display: inline-block; margin-bottom: 20px;">
   <strong>Tools</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
