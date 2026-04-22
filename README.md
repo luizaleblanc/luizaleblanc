@@ -26,43 +26,38 @@ Frontend engineer focused on building **modern web interfaces, scalable systems 
 
 ## Tech Stack
 
-### Frontend
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>DevOps</strong></td>
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="50" height="50"/>
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>
+      <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="40"/>
+    </td>
 
-### Backend
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+    </td>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-</p>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+    </td>
 
-### DevOps
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="50" height="50"/>
-</p>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/><br/>
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40"/>
+    </td>
+  </tr>
+</table>
 
