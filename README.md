@@ -11,31 +11,30 @@
   <img src="https://img.shields.io/badge/AWS-Docker_CI%2FCD-purple"/>
 </p>
 
----
 
-## About
+## About Me
 
-Full-Stack Software Engineer with solid experience in building distributed systems, resilient APIs, and scalable architectures[cite: 2]. Focused on delivering high-impact business solutions through robust back-end engineering and seamless cross-layer integration.
+Full-Stack Software Engineer specializing in building scalable distributed systems, resilient REST APIs, and enterprise-grade web applications. With a strong foundation in back-end engineering using the Java ecosystem and modern front-end technologies, I bridge the gap between complex business requirements and seamless user experiences.
 
-- Expertise in back-end development utilizing **Java, Spring Boot, RabbitMQ, and MySQL**[cite: 2].
-- Strong foundation in crafting modern and highly responsive user interfaces with **React, Angular, Node.js, and TypeScript**[cite: 2].
-- Solid experience in orchestrating cloud environments and continuous delivery utilizing **AWS, Docker, and CI/CD pipelines**[cite: 2].
-- Deeply committed to **Software Architecture, Clean Code**, and high engineering standards to ensure system maintainability and operational excellence[cite: 2].
-- Computer Science student at UNINASSAU (Expected graduation 2028).
+*   **Back-End Architecture:** Deep expertise in developing high-throughput systems using **Java, Spring Boot, RabbitMQ, and MySQL**.
+*   **Front-End Development:** Proven track record of crafting responsive and dynamic user interfaces with **React, Angular, Node.js, and TypeScript**.
+*   **Cloud & DevOps:** Hands-on experience with cloud infrastructure (**AWS, GCP, Azure**), containerization (**Docker, Kubernetes**), and CI/CD pipeline automation.
+*   **Engineering Standards:** Deeply committed to **Software Architecture, Clean Code**, and rigorous code quality practices (SonarQube) to ensure long-term system maintainability.
+*   **Academic Background:** Computer Science student at UNINASSAU (Expected graduation 2028).
 
 ## Tech Stack
 
-<div align="left">
+<div align="center">
 
-<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
+<div style="display: inline-block; margin-right: 40px; margin-bottom: 20px;">
   <strong>Backend & Architecture</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </div>
 
-<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
+<div style="display: inline-block; margin-right: 40px; margin-bottom: 20px;">
   <strong>Frontend</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
@@ -43,10 +42,41 @@ Full-Stack Software Engineer with solid experience in building distributed syste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 </div>
 
-<div style="display: inline-block; margin-right: 80px; margin-bottom: 20px;">
+<div style="display: inline-block; margin-right: 40px; margin-bottom: 20px;">
+  <strong>Data & Messaging</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ"/>
+</div>
+
+<div style="display: inline-block; margin-bottom: 20px;">
   <strong>Cloud & DevOps</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </div>
+
+</div>
+
+
+## GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizaleblanc&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8a8a8a&icon_color=6DB33F" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaleblanc&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8a8a8a" alt="Top Languages" />
+</div>
+
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiza-ferraz-leblanc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luizaa.fq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://my-portfolio-main-weld-pi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
