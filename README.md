@@ -62,14 +62,6 @@ Full-Stack Software Engineer specializing in building scalable distributed syste
 </div>
 
 
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizaleblanc&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8a8a8a&icon_color=6DB33F" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaleblanc&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8a8a8a" alt="Top Languages" />
-</p>
-
-
 ## Let's Connect
 
 <p align="center">
