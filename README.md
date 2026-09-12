@@ -5,63 +5,74 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engenheira_de_Software_Full--Stack-blue"/>
-  <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F"/>
-  <img src="https://img.shields.io/badge/APIs_REST-Microsserviços-orange"/>
-  <img src="https://img.shields.io/badge/AWS-Docker_CI%2FCD-purple"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-Multi--Artista-blue"/>
+  <img src="https://img.shields.io/badge/Harvard-Java_Certified-B31B1B"/>
+  <img src="https://img.shields.io/badge/Java-Spring_Boot_%7C_Spring_AI-6DB33F"/>
+  <img src="https://img.shields.io/badge/Front--End-KOF_UI-FF4500"/>
+  <img src="https://img.shields.io/badge/Arquitetura-BFF_%7C_Monolito_%7C_Microsserviços-orange"/>
 </p>
 
 ---
 
 ## Sobre Mim
 
-Engenheira de Software Full-Stack especializada na construção de sistemas distribuídos escaláveis, APIs REST resilientes e aplicações web de nível empresarial. Com uma base sólida em engenharia back-end utilizando o ecossistema Java e tecnologias modernas de front-end, faço a ponte entre requisitos de negócio complexos e experiências de usuário fluidas.
+A ponte entre um palco de jazz e a arquitetura de software de alta disponibilidade é a **precisão** e a **humanidade**. Como multi-artista (vocalista de rock/jazz e instrumentista de cordas) e Engenheira de Software Full-Stack, trago para o código a mesma disciplina e improvisação estruturada que aplico na música.
 
-*   **Arquitetura Back-End:** Profunda expertise no desenvolvimento de sistemas de alto desempenho utilizando **Java, Spring Boot, RabbitMQ e MySQL**.
-*   **Desenvolvimento Front-End:** Histórico comprovado na criação de interfaces responsivas e dinâmicas com **React, Angular, Node.js e TypeScript**.
-*   **Cloud & DevOps:** Experiência prática com infraestrutura em nuvem (**AWS, GCP, Azure**), conteinerização (**Docker, Kubernetes**) e automação de pipelines CI/CD.
-*   **Padrões de Engenharia:** Fortemente comprometida com **Arquitetura de Software, Clean Code** e práticas rigorosas de qualidade de código (SonarQube) para garantir a manutenibilidade a longo prazo.
-*   **Formação Acadêmica:** Estudante de Ciência da Computação na UNINASSAU (Conclusão prevista para 2028).
+Construo tecnologia guiada pela **Programação Orientada a Intenção**: o código não deve apenas funcionar, ele deve comunicar claramente seu propósito, manter a integridade arquitetural e resolver problemas humanos reais.
+
+*   **Formação e Certificações:** Estudante de Ciência da Computação (UNINASSAU), com certificações por Harvard e em Java.
+*   **Engenharia AI-first:** Liderando a construção de pipelines de debug avançadas para mitigar alucinações de IA em códigos gerados.
+*   **Arquitetura & Ecossistema:** Especialista no ecossistema JVM, projetando desde Monólitos Modulares e BFFs (Backend-For-Frontend) até arquiteturas de Microsserviços orientadas a eventos.
 
 ---
 
-## Tecnologias
+## O que estou construindo
+
+*   **[Organiza AI](https://github.com/luizaleblanc):** Criadora de um coach financeiro inteligente open-source. O back-end orquestra a lógica e a inteligência artificial com **Java, Spring Boot e Spring AI**, enquanto o front-end inova utilizando a linguagem e compilador **KOF** para uma interface fluida e fortemente tipada.
+*   **Pipeline Anti-Alucinação (Grupo Atalhos Digitais):** Idealizando e desenvolvendo uma metodologia de validação de código gerado por IA para reduzir o retrabalho técnico em 25%.
+
+---
+
+## Tecnologias & Ferramentas
 
 <div align="center">
 
 <div style="margin-bottom: 30px;">
-  <strong>Backend & Arquitetura</strong><br/><br/>
+  <strong>Backend, IA & Arquitetura</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" alt="Spring AI"/>
 </div>
 
 <div style="margin-bottom: 30px;">
-  <strong>Frontend</strong><br/><br/>
+  <strong>Frontend & UI</strong><br/><br/>
+  <img src="https://img.shields.io/badge/KOF_Language-FF4500?style=for-the-badge&logoColor=white" height="40" alt="KOF"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
 </div>
 
 <div style="margin-bottom: 30px;">
   <strong>Dados & Mensageria</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ"/>
 </div>
 
 <div style="margin-bottom: 30px;">
-  <strong>Cloud & DevOps</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Cloud, DevOps & Infraestrutura</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </div>
 
 </div>
 
 ## Vamos nos Conectar
+
+Estou sempre aberta para discutir arquitetura na JVM, integrações com ecossistema KOF, metodologias de desenvolvimento AI-first ou apenas para compartilhar boas playlists de Etta James e Metallica.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiza-ferraz-leblanc">
