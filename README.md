@@ -90,16 +90,16 @@ Construo tecnologia guiada pela **Programação Orientada a Intenção**: o cód
 
 ## Vamos nos Conectar
 
-Estou sempre aberta para discutir arquitetura na JVM, ecossistema JS, integrações com KOF, metodologias de desenvolvimento AI-first ou trocar boas playlists de jazz e rock.
+Estou sempre aberta para discutir arquitetura na JVM, ecossistema JS, integrações com KOF, metodologias de desenvolvimento AI-first ou trocar boas playlists de jazz, soul e blues.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiza-ferraz-leblanc">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:luizaa.fq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://my-portfolio-main-weld-pi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <a href="https://www.linkedin.com/in/luiza-ferraz-leblanc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:luizaa.fq@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://my-portfolio-main-weld-pi.vercel.app" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" alt="Vercel" />
   </a>
 </p>
