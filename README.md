@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Harvard-Certified-B31B1B"/>
   <img src="https://img.shields.io/badge/English-C2_Proficient-1D3557"/>
   <img src="https://img.shields.io/badge/Java-Spring_Boot_%7C_Spring_AI-6DB33F"/>
-  <img src="https://img.shields.io/badge/Ecossistema-JS_%7C_TypeScript-F7DF1E?logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ecossistema-JS_%7C_TypeScript-F7DF1E"/>
   <img src="https://img.shields.io/badge/KOF-Intent--Based_Programming-111111"/>
   <img src="https://img.shields.io/badge/Arquitetura-Monolítica_%7C_Microsserviços-orange"/>
 </p>
@@ -27,7 +27,7 @@ A ponte entre um palco de jazz e a arquitetura de software de alta disponibilida
 Construo tecnologia guiada pela **Programação Orientada a Intenção**: o código não deve apenas funcionar, ele deve comunicar claramente seu propósito, manter a integridade arquitetural e resolver problemas humanos reais.
 
 - **Formação e Certificações:** Estudante de Ciência da Computação (UNINASSAU), **Harvard Certified (CS50)**, certificação em **Inglês C2 (Proficient)**, além de especializações em Java Back-end com IA, Python, UX/Design e Prompt Engineering.
-- **Engenharia AI-first:** Desenvolvimento de pipelines de validação e agentes estruturados para mitigar alucinações de IA em código de produção.
+- **Engenharia AI-first:** Desenvolvimento de agentes estruturados e integrações com IA voltadas para confiabilidade em produção.
 - **Arquitetura & Ecossistema:** Especialista no ecossistema **JVM (Java, Spring Boot, Spring AI)** e **ecossistema JavaScript**, projetando desde **Arquiteturas Monolíticas Modulares** e BFFs até **Microsserviços** em containers (**Docker e Kubernetes**) com bancos relacionais (**PostgreSQL e MySQL**).
 
 ---
@@ -35,7 +35,7 @@ Construo tecnologia guiada pela **Programação Orientada a Intenção**: o cód
 ## O que estou construindo
 
 - **[Organiza AI](https://github.com/luizaleblanc/organiza-ai):** Coach financeiro inteligente open-source. O back-end orquestra a lógica de negócios e a inteligência artificial com **Java 17, Spring Boot 3.3 e Spring AI**, integrado à linguagem **KOF** em uma arquitetura de monólito modular fortemente tipada.
-- **Pipeline Anti-Alucinação (Grupo Atalhos Digitais):** Metodologia e infraestrutura de validação de código gerado por IA voltada para redução de retrabalho técnico e governança de engenharia.
+- **[Intuitive Care](https://github.com/luizaleblanc/intuitive_care):** Pipeline de ETL e dashboard para extração, processamento e visualização de dados públicos de saúde da ANS.
 
 ---
 
@@ -43,44 +43,44 @@ Construo tecnologia guiada pela **Programação Orientada a Intenção**: o cód
 
 <div align="center">
 
-<div style="margin-bottom: 30px;">
-  <strong>Backend, IA & Linguagens</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" alt="Spring AI"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-</div>
+<p><strong>Backend, IA & Linguagens</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
 
-<div style="margin-bottom: 30px;">
-  <strong>Ecossistema JS, Frontend & KOF</strong><br/><br/>
-  <img src="https://github.com/user-attachments/assets/41dca534-3f4d-4258-9638-f83b3f5c1b49" width="40" alt="KOF Language"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-</div>
+<p><strong>Ecossistema JS, Frontend & KOF</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/KOF-111111?style=for-the-badge&logoColor=white" alt="KOF"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
 
-<div style="margin-bottom: 30px;">
-  <strong>Dados & Mensageria</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-</div>
+<p><strong>Dados & Mensageria</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-<div style="margin-bottom: 30px;">
-  <strong>Cloud, DevOps & Infraestrutura</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</div>
+<p><strong>Cloud, DevOps & Infraestrutura</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 </div>
 
