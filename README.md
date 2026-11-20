@@ -53,13 +53,18 @@ Construo tecnologia guiada pela **Programação Orientada a Intenção**: o cód
 </div>
 
 <div style="margin-bottom: 30px;">
-  <strong>Ecossistema JS, Frontend & KOF</strong><br/><br/>
+  <strong>Ecossistema JS como Frontend </strong><br/><br/>
   <img src="https://github.com/user-attachments/assets/41dca534-3f4d-4258-9638-f83b3f5c1b49" width="40" alt="KOF"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+</div>
+
+<div style="margin-bottom: 30px;">
+  <strong>Intent-Based Programming</strong><br/><br/>
+  <img src="https://github.com/user-attachments/assets/41dca534-3f4d-4258-9638-f83b3f5c1b49" width="40" alt="KOF"/>
 </div>
 
 <div style="margin-bottom: 30px;">
@@ -73,11 +78,10 @@ Construo tecnologia guiada pela **Programação Orientada a Intenção**: o cód
 
 <div style="margin-bottom: 30px;">
   <strong>Cloud, DevOps & Infraestrutura</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="136" height="137" alt="image" src="https://github.com/user-attachments/assets/f9225c0a-b44e-4279-a872-b4e935be4280" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </div>
 
